@@ -1,1 +1,2 @@
 # MultiModal-Analysis-For-Logistics-Management-During-Disaster
+Mapping of Disaster related tweets into requests (need) and offer (donations) pairs in real-time for helping the NGOs and Government with the disaster relief operations. This help in better utilization of the timely support received on social media. Deep Neural Network models (RNN and CNN) used to implement the same achieving an accuracy of 75%.
